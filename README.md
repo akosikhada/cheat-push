@@ -48,6 +48,10 @@ This repository allows you to:
 - 🔄 **Easy to Update**: Simply edit the counter in the README to mark each use
 - 📱 **Mobile-Friendly Design**: Use this on-the-go from your phone when you don't have access to your development environment
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE). You are free to fork, use, and modify this project for your own needs!
+
 ## Keep That Streak!
 
 Sometimes life gets busy, but your GitHub activity doesn't have to show it. Use these cheat pushes wisely!
